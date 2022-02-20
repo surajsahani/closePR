@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClosePR</string>
+    <string name="date_with_label">%s: %s</string>
+    <string name="pull_requests">Pull Requests</string>
+    <string name="user_avatar">user Avatar</string>
+    <string name="retry">Retry</string>
+</resources>
